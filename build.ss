@@ -6,4 +6,4 @@
 
 (defbuild-script
   (cons [exe: "lsp/gxlsp"]
-        ["lsp/common"]))
+        ["gxlsp" "lsp/common"]))
